@@ -1,6 +1,6 @@
 **声明：此项目为本人在学习stm32过程中，为了加深对单片机外设的理解，故封装了一些函数，不可避免借鉴了互联网上的一些代码，如有侵权，请联系作者（联系方式见文章末）。**
 
-****
+
 
 **此工程基于keil开发环境，采用hal库函数进行开发。**
 
@@ -11,7 +11,7 @@
 
 **----------------------------------------------------未完待续---------------------------------------------------**
 
-****
+
 
 **使用教程：**
 
@@ -22,7 +22,7 @@
 
 **我来自中国，非常荣幸能为祖国的嵌入式行业增砖添瓦。**
 
-**<font style="color:rgb(25, 35, 56);">I come from China and I am very honored to be able to contribute to my country's embedded industry.</font>**
+**I come from China and I am very honored to be able to contribute to my country's embedded industry.**
 
-_<font style="color:rgb(25, 35, 56);">联系方式：434773632（qq）</font>_<font style="color:rgb(25, 35, 56);"></font>
+*联系方式：434773632（qq）* 
 
