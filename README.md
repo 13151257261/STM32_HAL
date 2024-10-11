@@ -6,6 +6,8 @@
 
 ### 库函数目录（）：
 1. STM32F103C8T6_Template（keil工程模版）
+1. mpu6050（软件IIC）
+1. mpu6050（硬件IIC）
 
 
 
