@@ -8,6 +8,7 @@
 1. STM32F103C8T6_Template（keil工程模版）
 1. mpu6050（软件IIC）
 1. mpu6050（硬件IIC）
+1. w25q64（硬件SPI）
 
 
 
